@@ -1,0 +1,6 @@
+module Pods_Ententee {
+  umbrella header "Pods-Ententee-umbrella.h"
+
+  export *
+  module * { export * }
+}

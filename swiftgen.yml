@@ -1,0 +1,6 @@
+xcassets:
+  inputs:
+    Ententee/Resources
+  outputs:
+    templatePath: assets.stencil
+    output: Ententee/Generated/Assets.swift
